@@ -25,7 +25,7 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-        A front-end developer with a passion of coding and design to deliver innovative solutions. During my 2-year Frontend development program i have worked with JavaScript, React JS, TypeScript, Angular, React Native, Next js , C# .Net, Firebase and MySQL. My final exam project was on SEO, React and Next JS.
+        A front-end developer with a passion of coding and design to deliver innovative solutions. During my 2-year Frontend development program i have worked with JavaScript, React JS, TypeScript, Angular, React Native, Next js , C# .Net, Firebase and MySQL. My final exam project was on SEO, React and Next JS. Currently in my Internship, Am working with Ruby on Rails and Tailwind CSS. 
 
         </p>
       </div>
