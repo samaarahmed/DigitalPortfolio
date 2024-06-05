@@ -15,14 +15,14 @@ const Footer = () => {
                   <BsGithub />
                 </span>
               </a>
-          <a
-            href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
-            target="_blank"
-          >
-            <span className="bannerIcon">
-              <FaLinkedinIn />
-            </span>
-          </a>
+              <a
+              href="https://www.linkedin.com/in/samaar-ahmed-7a440547/?trk=opento_sprofile_details"
+              target="_blank"
+            >
+              <span className="bannerIcon">
+                <FaLinkedinIn />
+              </span>
+            </a>
         </div>
       </div>
       <div>
