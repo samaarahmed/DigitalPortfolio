@@ -26,13 +26,12 @@ const LeftBanner = () => {
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
         A front-end developer with a passion of coding and design to deliver innovative solutions. During my 2-year Frontend development program i have worked with JavaScript, React JS, TypeScript, Angular, React Native, Next js , C# .Net, Firebase and MySQL. My final exam project was on SEO, React and Next JS. Currently in my Internship, Am working with Ruby on Rails and Tailwind CSS. 
-
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4">
-            Find me in
+            Find me on
           </h2>
           <div className="flex gap-4">
             <a
@@ -52,7 +51,7 @@ const LeftBanner = () => {
         </div>
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4">
-            BEST SKILL ON
+            BEST SKILLS ON
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">

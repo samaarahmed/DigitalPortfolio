@@ -2,7 +2,8 @@ import { useState } from "react";
 import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaYoutube, FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";
+import { BsGithub } from "react-icons/bs";
 import { logo } from "../assets";
 import { navLinksdata } from "../constants";
 
@@ -45,9 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                A front-end developer with a passion of coding and design to deliver innovative solutions. During my 2-year Frontend development program i have worked with JavaScript, React JS, TypeScript, Angular, React Native, Next js , C# .Net, Firebase and MySQL. My final exam project was on SEO, React and Next JS. Currently in my Internship, Am working with Ruby on Rails and Tailwind CSS. 
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -75,27 +74,16 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <a href="https://www.youtube.com/@reactjsBD" target="_blank">
-                    <span className="bannerIcon">
-                      <FaYoutube />
-                    </span>
-                  </a>
-                  <a
-                    href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
-                    target="_blank"
-                  >
-                    <span className="bannerIcon">
-                      <FaLinkedinIn />
-                    </span>
-                  </a>
-                  <a
-                    href="https://www.facebook.com/Noorlalu143/"
-                    target="_blank"
-                  >
-                    <span className="bannerIcon">
-                      <FaFacebookF />
-                    </span>
-                  </a>
+                <a href="https://www.linkedin.com/in/samaar-ahmed-7a440547/?trk=opento_sprofile_details" target="_blank">
+                  <span className="bannerIcon">
+                  <FaLinkedinIn />
+                  </span>
+                 </a>
+            <a href="https://github.com/samaarahmed" target="_blank">
+                <span className="bannerIcon">
+                  <BsGithub />
+                </span>
+              </a>
                 </div>
               </div>
               <span
