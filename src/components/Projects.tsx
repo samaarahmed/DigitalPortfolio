@@ -23,18 +23,18 @@ const Projects = () => {
             src={projectOne}
           />
           <ProjectsCard
-            title="Resturant Menu prototype (Figma)"
+            title="Burger Heaven Menu prototype (Figma)"
             des="UX & UI project "
             src={projectTwo}
           />
           <ProjectsCard
             title="To do list app (ReactJS)"
-            des=" CRUD functionaltiy"
+            des=" CRUD functionality"
             src={projectThree}
           />
           <ProjectsCard
             title="To do list app (Angular)"
-            des=" CRUD functionaltiy"
+            des=" CRUD functionality"
             src={projectFour}
           />
           <ProjectsCard
