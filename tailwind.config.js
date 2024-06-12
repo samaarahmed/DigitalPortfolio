@@ -22,7 +22,7 @@ export default {
         resumeColor:"#E5800E",
         lightText: "#c4cfde",
         boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
-        designColor: "#ff014f",
+        designColor: "#E5930E",
       },
       boxShadow: {
         shadowOne: "10px 10px 19px #030712, -10px -10px 19px #0f172a",
