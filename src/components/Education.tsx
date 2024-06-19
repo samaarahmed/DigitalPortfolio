@@ -14,6 +14,11 @@ const Education = () => {
           <h2 className="text-3xl md:text-4xl font-bold">Education</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <ResumeCard
+            title=".NET FullStack Developer specialization"
+            subTitle="Coursera.org (Jun 2024 - Aug 2024) Ongoing"
+            des="A full stack web development specialization with .NET technologies. Course includes .NET core, React's frontend capabilities, and ASP.NET backend development to design and deploy dynamic, scalable web applications."
+          />
           <ResumeCard
             title="Frontend Developer (400 YHP)"
             subTitle="EC Utbildning, Växjö (Aug 2022 - Jun 2024)"
