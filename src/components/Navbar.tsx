@@ -46,7 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                A front-end developer with a passion of coding and design to deliver innovative solutions. During my 2-year Frontend development program i have worked with JavaScript, React JS, TypeScript, Angular, React Native, Next js , C# .Net, Firebase and MySQL. My final exam project was on SEO, React and Next JS. Currently in my Internship, Am working with Ruby on Rails and Tailwind CSS. 
+                During my 2-year Frontend Development program, I completed several full-stack projects and found working on both frontend and backend tasks highly engaging and rewarding. I have worked with JavaScript, React.js, TypeScript, Angular, React Native, Next.js, Tailwind CSS, C# .NET, Firebase, MySQL, and Ruby on Rails. I had my internship at Standout AB, where I gained hands-on experience with Ruby on Rails, JavaScript, and Tailwind CSS. While I search for my next role, I am keeping myself busy by developing a React Native app, Grocery Express, to maintain and enhance my skills in mobile development. I am also working on some .NET and React full-stack projects to further improve my full-stack skills. 
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
