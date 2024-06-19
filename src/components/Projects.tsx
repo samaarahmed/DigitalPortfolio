@@ -20,7 +20,7 @@ const Projects = () => {
         <ProjectsCard
             title="To do list app (React & TypeScript)"
             des=" App with CRUD functionality"
-            src={projectThree}
+            src={projectFour}
             link="https://samaar-todolist-react-typescript.netlify.app/"
 
            />
@@ -45,15 +45,15 @@ const Projects = () => {
             link="https://github.com/samaarahmed?tab=repositories"
           />
           <ProjectsCard
-            title="To do list app (Angular)"
-            des=" CRUD functionality"
-            src={projectFour}
+            title="Grocery Express (ReactNative app)"
+            des=" Under Development"
+            src={projectThree}
             link="https://github.com/samaarahmed?tab=repositories"
 
           />
           <ProjectsCard
-            title="E-commerce Website (Angular)"
-            des="Städafint website with booking system"
+            title="Guessing Game (ReactNative)"
+            des="App will guess the number given by user"
             src={projectSix}
             link="https://github.com/samaarahmed?tab=repositories"
 
