@@ -18,13 +18,19 @@ const Projects = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-            title="To do list app (ReactJS)"
-            des=" CRUD functionality"
+            title="To do list app (React & TypeScript)"
+            des=" App with CRUD functionality"
             src={projectThree}
             link="https://samaar-todolist-react-typescript.netlify.app/"
 
            />
+        <ProjectsCard
+            title="E-commerce Website (React & TypeScript)"
+            des=" Städafint website with booking system (CRUD) on my pages"
+            src={projectFive}
+            link="https://samaar-bookingsystem.netlify.app/"
 
+          />
           <ProjectsCard
             title="Burger Heaven Menu prototype (Figma)"
             des="UX & UI project "
@@ -36,27 +42,20 @@ const Projects = () => {
             title="Product Manager Full-stack app"
             des="C# on backend & ReactJS on frontend"
             src={projectOne}
-            link="https://samaar-todolist-react-typescript.netlify.app/"
+            link="https://github.com/samaarahmed?tab=repositories"
           />
           <ProjectsCard
             title="To do list app (Angular)"
             des=" CRUD functionality"
             src={projectFour}
-            link="https://samaar-todolist-react-typescript.netlify.app/"
-
-          />
-          <ProjectsCard
-            title="E-commerce Website (ReactJs)"
-            des=" Städafint website with booking system"
-            src={projectFive}
-            link="https://samaar-todolist-react-typescript.netlify.app/"
+            link="https://github.com/samaarahmed?tab=repositories"
 
           />
           <ProjectsCard
             title="E-commerce Website (Angular)"
             des="Städafint website with booking system"
             src={projectSix}
-            link="https://samaar-todolist-react-typescript.netlify.app/"
+            link="https://github.com/samaarahmed?tab=repositories"
 
           />
         </div>
