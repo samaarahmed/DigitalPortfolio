@@ -7,7 +7,7 @@ import { BsGithub } from "react-icons/bs";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Frontend Developer", "Web Developer", "Aspiring Full Stack Developer"],
+    words: ["Aspiring Full Stack Developer","Frontend Developer", "Web Developer"],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -25,7 +25,8 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-        During my 2-year Frontend Development program, I completed several full-stack projects and found working on both frontend and backend tasks highly engaging and rewarding. I have worked with JavaScript, React.js, TypeScript, Angular, React Native, Next.js, Tailwind CSS, C# .NET, Firebase, MySQL, and Ruby on Rails. I had my internship at Standout AB, where I gained hands-on experience with Ruby on Rails, JavaScript, and Tailwind CSS. While I search for my next role, I am keeping myself busy by developing a React Native app, Grocery Express, to maintain and enhance my skills in mobile development. I am also working on some .NET and React full-stack projects to further improve my full-stack skills. 
+        An aspiring Full stack Developer with dream to emerge career in web development. As a full stack developer i find both frontend and backend tasks highly engaging and rewarding. I have worked with JavaScript, React.js, TypeScript, Angular, React Native, Next.js, Tailwind CSS, C# .NET, Firebase, MySQL, and Ruby on Rails. I had my internship at Standout AB, where I gained hands-on experience with Ruby on Rails, JavaScript, and Tailwind CSS. Currently am doing .NET Full Stack Developer Specialization with Coursera.org to maintain and enhance my skills in Full stack development.
+
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
