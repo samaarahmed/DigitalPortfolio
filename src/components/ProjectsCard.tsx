@@ -28,7 +28,7 @@ const ProjectsCard = ({ title, des, src,link }: Props) => {
               {title}
             </h3>
             <div className="flex gap-2">
-            <a href="https://github.com/samaarahmed" target="_blank">
+            <a href="https://github.com/samaarahmed?tab=repositories" target="_blank">
                 <span className="bannerIcon">
                   <BsGithub />
                 </span>

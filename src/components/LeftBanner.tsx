@@ -25,7 +25,7 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-        An aspiring Full stack Developer with dream to emerge career in web development. As a full stack developer i find both frontend and backend tasks highly engaging and rewarding. I have worked with JavaScript, React.js, TypeScript, Angular, React Native, Next.js, Tailwind CSS, C# .NET, Firebase, MySQL, and Ruby on Rails. I had my internship at Standout AB, where I gained hands-on experience with Ruby on Rails, JavaScript, and Tailwind CSS. Currently am doing .NET Full Stack Developer Specialization with Coursera.org to maintain and enhance my skills in Full stack development.
+        A passionate junior frontend developer with a strong ambition to transition towards full-stack development. I find both frontend and backend tasks highly engaging and rewarding. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full-stack development.
 
         </p>
       </div>
@@ -43,7 +43,7 @@ const LeftBanner = () => {
                 <FaLinkedinIn />
               </span>
             </a>
-            <a href="https://github.com/samaarahmed" target="_blank">
+            <a href="https://github.com/samaarahmed?tab=repositories" target="_blank">
                 <span className="bannerIcon">
                   <BsGithub />
                 </span>
