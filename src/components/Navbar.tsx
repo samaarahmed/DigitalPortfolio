@@ -46,7 +46,8 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                A passionate junior frontend developer with a strong ambition to transition towards full-stack development. I find both frontend and backend tasks highly engaging and rewarding. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full-stack development.
+                A Full-Stack developer with experience of working on the frontend (React, JavaScript, TypeScript, and Tailwind CSS) and backend (C# ASP .Net Core). During my internship, I worked in an agile environment with teams of 2 to 10 members. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full stack development.
+
 
                 </p>
               </div>

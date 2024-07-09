@@ -10,6 +10,7 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
+import twofactor from './videos/integrationer.se - Google Chrome 2024-05-30 12-07-54.mp4'
 
 export {
   logo,
@@ -24,4 +25,5 @@ export {
   testimonialTwo,
   quote,
   contactImg,
+  twofactor
 };

@@ -7,7 +7,7 @@ import { BsGithub } from "react-icons/bs";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Aspiring Full Stack Developer","Frontend Developer", "Web Developer"],
+    words: ["Full Stack Developer","Frontend Developer", ".Net Web Developer"],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -25,7 +25,8 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-        A passionate junior frontend developer with a strong ambition to transition towards full-stack development. I find both frontend and backend tasks highly engaging and rewarding. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full-stack development.
+        A Full-Stack developer with experience of working on the frontend (React, JavaScript, TypeScript, and Tailwind CSS) and backend (C# ASP .Net Core). During my internship, I worked in an agile environment with teams of 2 to 10 members. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full stack development.
+
 
         </p>
       </div>
