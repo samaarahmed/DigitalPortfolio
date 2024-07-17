@@ -46,7 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                A Full-Stack developer with experience of working on the frontend (React, JavaScript, TypeScript, and Tailwind CSS) and backend (C# ASP .Net Core). During my internship, I worked in an agile environment with teams of 2 to 10 members. Currently, while looking for a new role, I am pursuing a .NET Full Stack Developer Specialization on Coursera.org to maintain and enhance my skills in full stack development.
+                A Full-stack developer with experience of working on frontend (React, JavaScript and TypeScript) and backend (C# ASP.Net core). During my internship I have worked in agile development team. Currently, while looking for a new role, I am working on full stack projects with React and C# .NET to maintain and enhance my skills in full-stack development.
 
 
                 </p>
