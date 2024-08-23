@@ -13,10 +13,16 @@ const Experience = () => {
           <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <ResumeCard
+            title="Frontend Developer"
+            subTitle="Edusurferz Educational Consultant (EEC) - ( July 2024 - Present)"
+            des="I am responsible for SEO and adding new features to their website"
+          />
+
           <ResumeCard
             title="Intern"
             subTitle="Standout AB - (Nov 2023 - June 2024)"
-            des="Currently, I am doing my Frontend developer Internship with Standout AB which will finish on 9 june 2024. It’s quite amazing to work on real web development projects with Ruby on Rails and Tailwind CSS. I am eager to find my next challenge after finishing my internship."
+            des="Developed a Two-Factor Authentication (2FA) system using JavaScript, Ruby on Rails and Tailwind CSS. 2FA system will be implemented in Standout's platform."
           />
           <ResumeCard
             title="Night Manager"
