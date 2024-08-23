@@ -45,7 +45,7 @@ const Navbar = () => {
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
                 <img className="w-32" src={logo} alt="logo" />
-                <p className="text-sm text-gray-400 mt-2">
+                <p className="text-sm text-gray-400 mt-2 text-justify">
                 "I am a frontend developer with experience in full stack projects, working with React, JavaScript, and TypeScript on the frontend, and C# .NET on the backend. During my internship, I gained valuable experience in collaboration and adaptive development by working in an agile environment with teams ranging from 2 to 10 members. Currently, I am working as frontend developer at Edusurferz Educational Consultant (EEC), where I am responsible for SEO and adding new features to their website."
                 </p>
               </div>
