@@ -16,7 +16,7 @@ const Experience = () => {
         <ResumeCard
             title="Frontend Developer"
             subTitle="Edusurferz Educational Consultant (EEC) - ( July 2024 - Present)"
-            des="I am responsible for SEO and adding new features to their website"
+            des="Responsible for SEO and making on new student data platform for them."
           />
 
           <ResumeCard

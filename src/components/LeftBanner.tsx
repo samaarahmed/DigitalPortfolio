@@ -25,7 +25,7 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider text-justify">
-        "I am a frontend developer with experience in full stack projects, working with React, JavaScript, and TypeScript on the frontend, and C# .NET on the backend. During my internship, I gained valuable experience in collaboration and adaptive development by working in an agile environment with teams ranging from 2 to 10 members. Currently, I am working as frontend developer at Edusurferz Educational Consultant (EEC), where I am responsible for SEO and adding new features to their website."
+        A frontend developer with experience of working on full stack projects. I have worked with React, JavaScript, and TypeScript on the frontend, and C# .NET on the backend. During my internship, I gained valuable experience in collaboration and adaptive development by working in an agile environment. Currently, I am working as frontend developer at Edusurferz Educational Consultant (EEC), where I am responsible for SEO and making a new student data platform for them.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
