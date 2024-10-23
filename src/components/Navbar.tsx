@@ -46,8 +46,13 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2 text-justify">
-                A frontend developer with experience of working on full stack projects. I have worked with React, JavaScript, and TypeScript on the frontend, and C# .NET on the backend. During my internship, I gained valuable experience in collaboration and adaptive development by working in an agile environment. Currently, I am working as frontend developer at Edusurferz Educational Consultant (EEC), where I am responsible for SEO and making a new student data platform for them.
-                </p>
+                En frontend-utvecklare och SEO-specialist med erfarenhet av att
+arbeta med React, JavaScript, TypeScript, C# .NET,wordpress och
+Sökmotoroptimering (SEO). Under min examprojekt fick jag
+värdefull erfarenhet av arbeta på SEO, ReactJS och NEXTJS. För
+närvarande arbetar jag som frontend utvecklare och SEO-Sepcialist
+hos Edusurferz Educational Consultant (EEC), där jag ansvarar för
+SEO och utvecklingen av en ny studentdataplattform.                </p>
               </div>
               <ul className="flex flex-col gap-4">
                 {navLinksdata.map((item) => (
